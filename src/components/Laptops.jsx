@@ -4,6 +4,7 @@ import { getProducts } from "../services/productService";
 import { useNavigate } from "react-router-dom";
 import "./style.css";
 
+
 const Laptops = () => {
   const [products, setProducts] = useState([]);
   const { addToCart } = useCart();
