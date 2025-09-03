@@ -3,7 +3,6 @@ import { useCart } from "../context/CartContext";
 import { useNavigate } from "react-router-dom";
 import "./style.css"
 
-
 const Cart = () => {
   const { cartItems, removeFromCart } = useCart();
   const navigate = useNavigate();
