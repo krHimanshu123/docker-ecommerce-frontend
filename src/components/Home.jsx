@@ -3,7 +3,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div class="grid-layout">
-
+      
         <div class="product">
             <img src="rose.jpg" alt="Product 1" />
             <h4>Product 1</h4>
