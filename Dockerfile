@@ -5,6 +5,7 @@
     RUN npm ci
     COPY . .
     RUN npm run build   
+
         
     # ---------- Run stage ----------
     FROM nginx:alpine
