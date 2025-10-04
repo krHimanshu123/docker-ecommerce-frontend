@@ -28,6 +28,7 @@ const AboutUs = () => {
           <p>Latest smartphones from top brands at unbeatable prices.</p>
         </div>
         </Link>
+        
         <Link to="/laptops">
         <div className="about-item">
           <img src="laptops.jpeg" alt="Laptops" />
