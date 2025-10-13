@@ -29,6 +29,7 @@ const Cart = () => {
           <button onClick={handleCheckout}>Proceed to Checkout</button>
         </>
       )}
+      
     </div>
   );
 };
