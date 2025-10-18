@@ -40,6 +40,7 @@ const Laptops = () => {
         )}
       </div>
     </div>
+    
   );
 };
 
