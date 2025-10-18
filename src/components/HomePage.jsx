@@ -52,6 +52,7 @@ const HomePage = () => {
                 </div>
               )}
             </div>
+      
           ) : (
             <>
               <Link to="/login"><button>Login</button></Link>
