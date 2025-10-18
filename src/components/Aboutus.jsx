@@ -20,6 +20,7 @@ const AboutUs = () => {
           <h3>Computers</h3>
           <p>Find the best computers for gaming, work, and personal use.</p>
         </div>
+        
         </Link>
 
         <Link to="/mobiles">
