@@ -48,6 +48,7 @@ const Computers = () => {
                 Add to Cart
               </button>
             </div>
+            
           ))
         ) : (
           <p>No computers available.</p>
